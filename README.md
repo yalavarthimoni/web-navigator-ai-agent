@@ -78,6 +78,12 @@ Our AI Navigator Agent allows users to issue simple commands and retrieves top r
 
 <img width="1129" height="857" alt="image" src="https://github.com/user-attachments/assets/c65b449e-d9b5-48d2-92fa-8acde605b61d" />
 
+<img width="1310" height="349" alt="image" src="https://github.com/user-attachments/assets/0ecbea2c-f89b-4168-b8ff-1d3e701e090f" />
+
+<img width="1363" height="681" alt="image" src="https://github.com/user-attachments/assets/cccf818f-c416-4461-83f3-ecab9e946a56" />
+
+
+
 
 
 
