@@ -70,17 +70,14 @@ Our AI Navigator Agent allows users to issue simple commands and retrieves top r
 | Vaishnavi | Vignan’s Lara | Input handling, voice recognition, AI assistant responses, error handling |
 | Premsai | KLU | Backend command processing, execution logic, browser automation, Flipkart integration |
 
+<img width="1237" height="669" alt="image" src="https://github.com/user-attachments/assets/a1a046c0-f7b4-4fca-a8b7-c38b8b4387ef" />
 
-![alt text](image.png)
+<img width="1608" height="838" alt="image" src="https://github.com/user-attachments/assets/8428bc65-3639-4df1-8d06-19d07e819a0c" />
 
+<img width="1481" height="848" alt="image" src="https://github.com/user-attachments/assets/823f447c-2048-4121-8cf6-889c26e71008" />
 
-![alt text](image-1.png)
-
-
-![alt text](image-2.png)
-
-
-![alt text](image-3.png)
+<img width="1129" height="857" alt="image" src="https://github.com/user-attachments/assets/c65b449e-d9b5-48d2-92fa-8acde605b61d" />
 
 
-![alt text](image-4.png)
+
+
